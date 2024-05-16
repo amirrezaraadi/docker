@@ -264,7 +264,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/laragon/www/docker-laravel",
+    "last_opened_file_path": "D:/laragon/www/docker",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -300,6 +300,7 @@
       <workItem from="1715664004556" duration="5629000" />
       <workItem from="1715680203901" duration="1913000" />
       <workItem from="1715764627472" duration="1404000" />
+      <workItem from="1715850239159" duration="642000" />
     </task>
     <servers />
   </component>
